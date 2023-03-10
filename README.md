@@ -3,7 +3,7 @@ A sorting system based on splitting the data structure into 3 substructures. thi
 This was my Data Structure course final term project.
 
 ## Tabel of content
-- normalize input function
+- [normalize input function](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort#normalize-input) <br/>
 - merge function
 - divide function
 - final function and execution
