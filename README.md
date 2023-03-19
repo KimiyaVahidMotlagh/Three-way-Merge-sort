@@ -1,23 +1,21 @@
 # Three-way-Merge-sort
-A sorting system based on splitting the data structure into 3 substructures. this sort is a recursive function that continues splitting the structure until the condition is met. 
-This was my Data Structure course final term project.
+A sorting system based on splitting the data structure into three substructures is called Three-way merge sort. This sort is a recursive function that continues dividing the structure until the condition is met. <br/>
+This project was my Data Structure course final term project.
 
 ## Tabel of content
-- [Normalize input function](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort#normalize-input) <br/>
-- [Merge function](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort#merge-function) <br/>
-- [Divide function](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#divide-function) <br/>
-- [Final function and execution](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#final-function-and-execution) <br/>
+- [Functions](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#divide-function) <br/>
+- [Run and Execution](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#final-function-and-execution) <br/>
 
-## Normalize input
-As the user, you can test the merge sort. The input is [X, Y, Z..] that we have to load them as a list. This function sets the list as intended.
+## Functions
+- Normalize input <br/>
+As the user, you can test the merge sort. The input is as [X, Y, Z..] that we have to load them as a list. This function sets the data as intended so the code can execute properly.
 
-## Merge function
-While merging the divided arrays, we have to sort them first. This function does that and checks them one by one and add them to the output array. 
+- Merge function <br/>
+While merging the divided arrays, we have to sort them first. This function checks them one by one and adds them to the output array. By the end, we have a merged, sorted list as the output.
 
-## Divide function
-As previously mentioned, we have a recursive function. By calling the same function but with a much more narrow index range, we are dividing the problem. 
+- Divide function <br/>
+As previously mentioned, we have a recursive function. By calling the same function but with a much more narrow index range, we are dividing the problem. In our code, we continue splitting the list until we reach lists with only one element in them.
 
-
-## Final function and execution
-Mergesort3way is the last function that unites both previous functions together. As input, it will receive only the array and its length. 
-In execution you firstly need the normalized data. Then you can sort an array with 3way merge sort :)
+- Mergesort3way <br/>
+This is the last function that unites both previous functions together. As input, it will receive only the array and its length. Then 
+In execution, you first need the normalized data. Then you can sort an array with a 3way merge sort.
