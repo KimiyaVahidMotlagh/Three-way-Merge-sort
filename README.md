@@ -4,7 +4,7 @@ This project was my Data Structure course final term project.
 
 ## Tabel of content
 - [Functions](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#divide-function) <br/>
-- [Run and Execution](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#run-and-execution) <br/>
+- [Run and Evaluation](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#run-and-execution) <br/>
 
 ## Functions
 - Normalize input <br/>
@@ -20,5 +20,5 @@ As previously mentioned, we have a recursive function. By calling the same funct
 This is the last function that unites both previous functions together. As input, it will receive only the array and its length. Then 
 In execution, you first need the normalized data. Then you can sort an array with a 3way merge sort.
 
-## Run and Execution
+## Run and Evaluation
 Calling the Mergesort3way function and passing it our input, will output the sorted array. 
