@@ -20,5 +20,5 @@ As previously mentioned, we have a recursive function. By calling the same funct
 This is the last function that unites both previous functions together. As input, it will receive only the array and its length. Then 
 In execution, you first need the normalized data. Then you can sort an array with a 3way merge sort.
 
-##Run and Execution
+## Run and Execution
 Calling the Mergesort3way function and passing it our input, will output the sorted array. 
