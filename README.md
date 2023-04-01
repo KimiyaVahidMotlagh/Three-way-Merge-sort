@@ -4,7 +4,7 @@ This project was my Data Structure course final term project.
 
 ## Tabel of content
 - [Functions](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#divide-function) <br/>
-- [Run and Execution](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#final-function-and-execution) <br/>
+- [Run and Execution](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#run-and-execution) <br/>
 
 ## Functions
 - Normalize input <br/>
