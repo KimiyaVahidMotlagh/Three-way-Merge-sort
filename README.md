@@ -1,4 +1,4 @@
-# Three-way-Merge-sort
+# Threeway Mergesort
 A sorting system based on splitting the data structure into three substructures is called Three-way merge sort. This sort is a recursive function that continues dividing the structure until the condition is met. <br/>
 This project was my Data Structure course final term project.
 
