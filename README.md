@@ -4,7 +4,7 @@ This project was my Data Structure course final term project.
 
 ## Tabel of content
 - [Functions](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#divide-function) <br/>
-- [Advantages]() <br/>
+- [Advantages](https://github.com/KimiyaVahidMotlagh/Threeway_Mergesort/blob/main/README.md#advantages) <br/>
 - [Run and Evaluation](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#run-and-evaluation) <br/>
 
 ## Functions
