@@ -4,6 +4,7 @@ This project was my Data Structure course final term project.
 
 ## Tabel of content
 - [Functions](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#divide-function) <br/>
+- [Advantages]() <br/>
 - [Run and Evaluation](https://github.com/KimiyaVahidMotlagh/Three-way-Merge-sort/blob/main/README.md#run-and-evaluation) <br/>
 
 ## Functions
@@ -19,6 +20,13 @@ As previously mentioned, we have a recursive function. By calling the same funct
 - Mergesort3way <br/>
 This is the last function that unites both previous functions together. As input, it will receive only the array and its length. Then 
 In execution, you first need the normalized data. Then you can sort an array with a 3way merge sort.
+
+## Advantages 
+Three-way merge sort is an enhanced version of the classic merge sort algorithm that divides the data into three parts instead of two. This variant brings several benefits, particularly in specific scenarios:
+- Improved Efficiency with Duplicates
+- Reduced Recursive Depth
+- Optimized for Large Data
+- Potential for Fewer Comparisons
 
 ## Run and Evaluation
 Calling the Mergesort3way function and passing it our input, will output the sorted array. 
